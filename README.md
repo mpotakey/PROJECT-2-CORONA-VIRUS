@@ -1,5 +1,5 @@
 # PROJECT-2-CORONA-VIRUS
-Data=Corona_Virus
+Data=Corona_Virus_CSV
 
 
 
