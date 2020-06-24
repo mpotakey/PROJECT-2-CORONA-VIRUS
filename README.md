@@ -1,5 +1,5 @@
 # PROJECT-2-CORONA-VIRUS
-Data
+Data=Corona
 
 
 
